@@ -1,4 +1,4 @@
-# iconify-icons
+# Iconify Icons
 
 To install dependencies:
 
