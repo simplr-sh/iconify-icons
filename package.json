@@ -1,5 +1,5 @@
 {
-  "name": "iconify-icon-sets",
+  "name": "iconify-icons",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {

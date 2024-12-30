@@ -1,4 +1,4 @@
-# iconify-icon-sets
+# iconify-icons
 
 To install dependencies:
 
